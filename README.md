@@ -1,7 +1,8 @@
 # Cpp-Basics
 Covering some basics of C++.
-1. Basic input output. 
-2. If else statements
-3. Loops
-4. Jump statements in loops
-5. Switch statement
+----------------------------
+Basic input output. 
+1. If else statements
+2. Loops
+3. Jump statements in loops
+4. Switch statement
