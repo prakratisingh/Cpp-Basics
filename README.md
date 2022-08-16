@@ -4,3 +4,4 @@ Covering some basics of C++.
 2. If else statements
 3. Loops
 4. Jump statements in loops
+5. Switch statement
