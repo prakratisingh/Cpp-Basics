@@ -6,5 +6,5 @@ Basic input output.
 2. Loops
 3. Jump statements in loops
 4. Switch statement
-5. Prime number
+5. Check if prime number
 6. Check for even-odd number
