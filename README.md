@@ -7,3 +7,4 @@ Basic input output.
 3. Jump statements in loops
 4. Switch statement
 5. Prime number
+6. Check for even-odd number
