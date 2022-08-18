@@ -8,3 +8,4 @@ Basic input output.
 4. Switch statement
 5. Check if prime number
 6. Check for even-odd number
+7. Check for armstrong number 
