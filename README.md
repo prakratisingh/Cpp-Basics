@@ -9,3 +9,4 @@ Basic input output.
 5. Check if prime number
 6. Check for even-odd number
 7. Check for armstrong number 
+8. Finding factorial of number
