@@ -10,3 +10,4 @@ Basic input output.
 6. Check for even-odd number
 7. Check for armstrong number 
 8. Finding factorial of number
+9. Finding reverse of a number
