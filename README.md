@@ -11,3 +11,4 @@ Basic input output.
 7. Check for armstrong number 
 8. Finding factorial of number
 9. Finding reverse of a number
+10. Pattern question
