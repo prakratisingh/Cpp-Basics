@@ -14,3 +14,4 @@ Basic input output.
 10. Pattern question
 11. Printing fibonacci series
 12. GCD of two numbers
+13. LCM of two numbers
