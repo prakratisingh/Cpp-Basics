@@ -1,6 +1,6 @@
 # Cpp-Basics
 Covering some basics of C++.
-----------------------------
+-----------------------------
 Basic input output. 
 1. If else statements
 2. Loops
