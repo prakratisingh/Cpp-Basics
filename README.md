@@ -13,3 +13,4 @@ Basic input output.
 9. Finding reverse of a number
 10. Pattern question
 11. Printing fibonacci series
+12. GCD of two numbers
