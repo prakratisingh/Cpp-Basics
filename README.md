@@ -16,3 +16,5 @@ Basic input output.
 12. GCD of two numbers
 13. LCM of two numbers
 14. Check for leap year
+15. Combinations
+16. 
