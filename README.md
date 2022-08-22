@@ -18,3 +18,4 @@ Basic input output.
 14. Check for leap year
 15. Combinations
 16. Check for pallindrome
+17. Check for pythagorean triplet
