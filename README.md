@@ -17,4 +17,4 @@ Basic input output.
 13. LCM of two numbers
 14. Check for leap year
 15. Combinations
-16. 
+16. Check for pallindrome
