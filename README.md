@@ -19,3 +19,4 @@ Basic input output.
 15. Combinations
 16. Check for pallindrome
 17. Check for pythagorean triplet
+18. Pascal Triangle
