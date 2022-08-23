@@ -20,3 +20,4 @@ Basic input output.
 16. Check for pallindrome
 17. Check for pythagorean triplet
 18. Pascal Triangle
+20. Sum of natural numbers
