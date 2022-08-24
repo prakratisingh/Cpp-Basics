@@ -21,4 +21,4 @@ Basic input output.
 17. Check for pythagorean triplet
 18. Pascal Triangle
 20. Sum of natural numbers
-20. Swap numbers
+20. Swap numbers in different ways
