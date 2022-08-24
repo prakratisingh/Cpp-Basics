@@ -3,7 +3,7 @@ Covering some basics of C++.
 -----------------------------
 Basic input output. 
 1. If else statements
-2. Loops
+2. Loops in C++
 3. Jump statements in loops
 4. Switch statement
 5. Check if prime number
