@@ -23,3 +23,4 @@ Basic input output.
 20. Sum of natural numbers
 20. Swap numbers using different techniques
 21. Check for strong number
+22. Check for prime between two numbers
