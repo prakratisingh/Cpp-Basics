@@ -25,3 +25,4 @@ Basic input output.
 21. Check for strong number
 22. Check for prime between two numbers
 23. Space complexity basics
+24. Time complexity basics
