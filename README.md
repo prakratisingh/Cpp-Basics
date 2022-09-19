@@ -26,3 +26,4 @@ Basic input output.
 22. Check for prime between two numbers
 23. Space complexity basics
 24. Time complexity basics
+25. Checking if string is anagram
