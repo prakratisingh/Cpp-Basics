@@ -13,5 +13,4 @@ int main() //Execution starts from main function. (Mandatory for every program)
     int sum = amount1+amount2;
     cout<<sum<<endl;
     return 0;
-    //hello
 }
